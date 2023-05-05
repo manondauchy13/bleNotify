@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bleNotify</string>
+    <string name="ble_scan_pause">ble_scan_pause</string>
+    <string name="ble_scan_play">ble_scan_play</string>
+    <string name="ble_scan_error">ble_scan_error</string>
+    <string name="play">play</string>
+</resources>
